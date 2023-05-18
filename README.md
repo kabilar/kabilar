@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Projects I have worked on:
+
+- DataJoint Elements
+  - [Documentation](https://datajoint.com/docs/)
+  - [Source code](https://github.com/datajoint)
+
+- Computational models of deep brain stimulation
+
+
 <!--
 **kabilar/kabilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
