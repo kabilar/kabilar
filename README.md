@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Projects:
-- DataJoint Elements
+- DataJoint Elements - Data pipelines for neurophysiology experiments
   - Role: Project manager and core developer
   - [Documentation](https://datajoint.com/docs/)
   - [Source code](https://github.com/datajoint)
