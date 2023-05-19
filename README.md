@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 Projects I have worked on:
-
 - DataJoint Elements
   - [Documentation](https://datajoint.com/docs/)
   - [Source code](https://github.com/datajoint)
-
-- Computational models of deep brain stimulation
 
 
 <!--
