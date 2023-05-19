@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Projects I have worked on:
+Projects:
 - DataJoint Elements
+  - Project manager and core developer
   - [Documentation](https://datajoint.com/docs/)
   - [Source code](https://github.com/datajoint)
 
