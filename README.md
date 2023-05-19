@@ -2,7 +2,7 @@
 
 Projects:
 - DataJoint Elements
-  - Project manager and core developer
+  - Role: Project manager and core developer
   - [Documentation](https://datajoint.com/docs/)
   - [Source code](https://github.com/datajoint)
 
