@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-tr {
-    border-bottom: 1px solid black;
-    border-top: 1px solid black;
-    border-collapse: collapse;
-}
-
 | Project | Description | Role | Docs | Source Code |
 |--|--|--|--|--|
 | DataJoint Elements | Data pipelines for neurophysiology experiments | Project manager and core developer | [Documentation](https://datajoint.com/docs/) | [Source code](https://github.com/datajoint) |
