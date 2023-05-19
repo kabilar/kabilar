@@ -2,7 +2,7 @@
 
 | Project | Description | Role | Docs | Source Code |
 |--|--|--|--|--|
-| DataJoint Elements | Data pipelines for neurophysiology experiments | Project manager and core developer | [Documentation](https://datajoint.com/docs/) | [Source code](https://github.com/datajoint) |
+| DataJoint Elements | Data pipelines for neurophysiology experiments | Project manager and core developer | [Link](https://datajoint.com/docs/) | [Link](https://github.com/datajoint) |
 
 <!--
 **kabilar/kabilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
