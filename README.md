@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-| <div style="width:200px">Project</div> | Role | Description | Source Code |
+| Project | Role | Description | Source Code |
 |--|--|--|--|
-| [DataJoint Elements](https://datajoint.com/docs/elements/) | Project manager & Core developer | Data pipelines for neurophysiology experiments | [Link](https://github.com/datajoint) |
+| [DataJoint Elements](https://datajoint.com/docs/elements/) | Project manager & <br />Core developer | Data pipelines for neurophysiology experiments | [Link](https://github.com/datajoint) |
 
 <!--
 **kabilar/kabilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
