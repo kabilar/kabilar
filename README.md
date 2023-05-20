@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-| Project | Dates | Role | Description | Source Code |
+| Dates | Project | Role | Description | Source Code |
 |--|--|--|--|--|
-| [DataJoint Elements](https://datajoint.com/docs/elements/) | 2020-Present | Project manager & <br />Core contributor | Data pipelines for neurophysiology experiments | [14 repositories](https://github.com/orgs/datajoint/repositories?q=element&type=source&language=&sort=) |
+| 2020-Present | [DataJoint Elements](https://datajoint.com/docs/elements/) | Project manager & <br />Core contributor | Data pipelines for neurophysiology experiments | [14 repositories](https://github.com/orgs/datajoint/repositories?q=element&type=source&language=&sort=) |
 
 <!--
 **kabilar/kabilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
