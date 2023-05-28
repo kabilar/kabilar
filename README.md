@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| Dates | Project | Role | Description | Source Code |
+| Dates | Project | Role | Description | Resources |
 |--|--|--|--|--|
 | 2021-Present | [DataJoint for Python](https://datajoint.com/docs/core/datajoint-python/) | Contributor | Relational data pipelines <br />for the science lab | <ul><li>[Source code](https://github.com/datajoint/datajoint-python)</li></ul> |
 | 2020-Present | [DataJoint Elements](https://datajoint.com/docs/elements/) | Project manager & <br />Core contributor | Data pipelines for <br />neurophysiology experiments | <ul><li>[Source code for <br />14 repositories](https://github.com/orgs/datajoint/repositories?q=element&type=source&language=&sort=)</li></ul> |
