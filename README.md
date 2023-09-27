@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Over the past ~15 years I have been building software to improve our understand of the brain.  Below are a few of the major projects that I have worked on.
+Over the past ~15 years I have been building software to improve our understanding of the brain.  Below are the major projects that I have worked on.
 
 | Dates | Project | Role | Description | Resources |
 |--|--|--|--|--|
