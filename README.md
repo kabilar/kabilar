@@ -4,6 +4,8 @@ Over the past ~15 years I have been building software to improve our understandi
 
 | Dates | Project | Role | Description | Resources |
 |--|--|--|--|--|
+| 2023-Present | DANDI | Core contributor | Neurophysiology data sharing platform | <ul><li>[Data Platform](https://dandiarchive.org/)</li><li>[Docs](https://www.dandiarchive.org/handbook/)</li><li>[Source code](https://github.com/dandi/)</li></ul> |
+| 2023-Present | LINC | Core contributor | Mapping large-scale connections in the brain | <ul><li>[Data Platform](https://lincbrain.org/)</li><li>[Docs](https://docs.lincbrain.org/)</li><li>[Source code](https://github.com/lincbrain)</li></ul> |
 | 2021-2023 | DataJoint for Python | Core contributor | Relational data pipelines for the science lab | <ul><li>[Docs](https://datajoint.com/docs/core/datajoint-python/)</li><li>[Source code](https://github.com/datajoint/datajoint-python)</li><li>[Tutorials](https://github.com/datajoint/datajoint-tutorials)</li></ul> |
 | 2020-2023 | DataJoint Elements | Project manager & Core contributor | Data pipelines for neurophysiology experiments | <ul><li>[Docs](https://datajoint.com/docs/elements/)</li><li>[Source code for 14 repositories](https://github.com/orgs/datajoint/repositories?q=element&type=source&language=&sort=)</li></ul> |
 | 2010-2018 | Computational models of neural stimulation | Graduate student | Patient-specific computational models of deep brain stimulation for Parkinson's disease | <ul><li>[Peer-reviewed manuscripts](https://pubmed.ncbi.nlm.nih.gov/?term=kabilar+gunalan&filter=years.2014-2020&sort=pubdate)</li></ul> |
